@@ -6,8 +6,8 @@ def square_array(numbers)
   return new_numbers
   
   
-  new_array[]
-  array.each {|numbers| new_array.push(numbers*numbers)}
-  return new_array
+ # new_array[]
+  #array.each {|numbers| new_array.push(numbers*numbers)}
+#  return new_array
 
 end
